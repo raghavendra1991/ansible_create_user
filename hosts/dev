@@ -1,0 +1,2 @@
+[create-user]
+3.110.40.254 ansible_ssh_user=node
